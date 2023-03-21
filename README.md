@@ -15,7 +15,7 @@ Contraintes :
 Fourni :
 - classes Pokemon et Pokedex du TD1 avec exemple de lecture de XML
 - [Lien pour l'image du pokemon (par exemple n°35)](//raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png)
-!Lien pour l'image du pokemon (par exemple n°35)](//raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png)
+![Lien pour l'image du pokemon (par exemple n°35)](//raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png)
 
 Bonus possibles :
 - afficher des petites images dans la ListView
