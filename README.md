@@ -8,7 +8,7 @@
 
 Contraintes :
 
-- les informations sur les Pokemon doivent être récupérées sur Internet en utilisant l'API Rest [PokeAPI](//pokeapi.co/) qui fournit un JSON très détaillé.
+- les informations sur les Pokemon doivent être récupérées sur Internet en utilisant l'API Rest [PokeAPI](//pokeapi.co/) qui fournit un JSON très détaillé ![pokeapi](pokeapi_256.png). 
 - il faut enrichir les informations sur une espèce de Pokemon le plus possible (stats)
 - il faut tenir compte du fait qu'un Pokemon peut muter et se transformer en un autre Pokemon, donc on doit pouvoir passer de la page d'un Pokemon à celle de l'autre
 
